@@ -2,8 +2,8 @@
 
 - 📖 **Cursando:** Bacharelado em Ciência e Tecnologia na Ilum Escola de Ciência, Centro Nacional de Pesquisa em Energia e Materiais;
 - 🌌 **Áreas de interesse:** Cosmologia, Física de Partículas Elementares e Matemática Computacional;
-- ✍️ **Aprendendo:** Processamento de Linguagem Natural e de Imagens;
-- 💻 **Projeto(s) atual(is):** Álgebra fuzzy usando Python;
+- ✍️ **Aprendendo:** Processamento de Imagens;
+- 💻 **Projeto(s) atual(is):** Álgebra fuzzy computacional;
 ##
   
 <a href="https://github.com/leticiaalmnunes/github-readme-stats">
